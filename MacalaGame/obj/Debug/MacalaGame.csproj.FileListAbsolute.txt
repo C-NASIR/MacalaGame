@@ -1,0 +1,14 @@
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\bin\Debug\MacalaGame.exe.config
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\bin\Debug\MacalaGame.exe
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\bin\Debug\MacalaGame.pdb
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame.csprojResolveAssemblyReference.cache
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MainWindow.g.cs
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\App.g.cs
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame_MarkupCompile.cache
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame_MarkupCompile.lref
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MainWindow.baml
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame.g.resources
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame.Properties.Resources.resources
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame.csproj.GenerateResource.Cache
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame.exe
+C:\Users\CNASI\Desktop\MacalaGame\MacalaGame\obj\Debug\MacalaGame.pdb
